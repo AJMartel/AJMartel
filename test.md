@@ -64,7 +64,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://3DFabXYZ.com)
 
 ---
 
@@ -72,11 +72,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/4) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. 🗣 Commented on [#4](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/4) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-3. ❗️ Closed issue [#3](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/3) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-4. 🗣 Commented on [#3](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/3) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-5. 🗣 Commented on [#1](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/1) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
+
 <!--END_SECTION:activity-->
 
 </details>
