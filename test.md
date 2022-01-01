@@ -1,3 +1,7 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/AJMartel/FPS_Bomb_Simulator)
+
+
+
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋 
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
