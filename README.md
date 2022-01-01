@@ -38,9 +38,9 @@ Examples from: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- 3DFabXYZ.com:START --> 
 
-<!-- BLOG-POST-LIST:END -->
+<!-- 3DFabXYZ.com:END -->
 
 ➡️ [more blog posts...](https://3DFabXYZ.com)
 
