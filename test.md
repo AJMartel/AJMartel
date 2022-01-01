@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/AJMartel/FPS_Bomb_Simulator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AJMartel&repo=FPS_Bomb_Simulator&show_owner=true)](https://github.com/AJMartel/FPS_Bomb_Simulator)
 
 
 
