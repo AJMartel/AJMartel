@@ -29,3 +29,15 @@ Here are some ideas to get you started:
 <a href="https://3DFabXYZ.com">
   <img src="https://img.shields.io/twitter/follow/AJMartel?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
 </a>
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://3DFabXYZ.com)
+
+---
