@@ -38,8 +38,9 @@ Examples from: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 ### 📕 Latest Blog Posts
 
-<!-- 3DFabXYZ.com:START --> 
-
+<!-- 3DFabXYZ.com:START -->
+- [Hello world! email](https://3dfabxyz.com/archives/132?utm_source=rss&utm_medium=rss&utm_campaign=hello-world-email)
+- [Hello world!](https://3dfabxyz.com/archives/1?utm_source=rss&utm_medium=rss&utm_campaign=hello-world)
 <!-- 3DFabXYZ.com:END -->
 
 ➡️ [more blog posts...](https://3DFabXYZ.com)
