@@ -26,9 +26,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AJMartel&theme=dark" />
 </a>
 <br/>
-<a href="https://3DFabXYZ.com">
-  <img src="https://img.shields.io/twitter/follow/AJMartel?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
-</a>
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AJMartel&theme=nord&column=7)](https://github.com/AJMartel)
 
 ---
 
