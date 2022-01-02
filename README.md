@@ -39,7 +39,8 @@ Examples from: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Hello world! email](https://3dfabxyz.com/archives/132?utm_source=rss&utm_medium=rss&utm_campaign=hello-world-email)
+- [Hello world!](https://3dfabxyz.com/archives/1?utm_source=rss&utm_medium=rss&utm_campaign=hello-world)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://3DFabXYZ.com)
